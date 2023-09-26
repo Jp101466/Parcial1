@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "simuladorbodega",
+  "private_key_id": "6ce74044ba09c5195fac7130f7e3954ee23073f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCt1rzm7fSWcFo9\n5Z/h5UXvK67950aksJiKgshuUlBWi/Sae9fJ8axqxEqnET7b1A348VYBTdlm73Iv\n34arSCUXQIHq8hmvS6yxN1DZcjnYNpie4fMCktPqaMcnwfPRrePgIDXuE8gGRq+q\nA5jD7yfTLc3zwFzvgWtRJ5laGYuCG3rTP19zBPsYkqEg/PLRitIWec/nxtZowMns\nAgLbJ8/0OGL6vknsHdwl/oSdqOJ27kRH3b+b0fWB0+iu6hK6Co3p8EsyMmuqq+Q2\nfDh9YL4eXwYvAG+4RTpzwFkFKIEh3zRMURzUOG9GdN9cw9bw/8bANJtYaUtSVa8X\n3P3ns0axAgMBAAECggEAA8ZI3b7G88lGvFdTDGWdCh9pskumRgcrmL5UOckBw49Q\nZVZRDip4Mu1GLbB7K+zDzOb4lhiposmKMi3pT6jGXWXiLEbLdfnvqv1nfQE07lPp\nJnIDg8fKYCmcQWm9sIzVCNXKNfwp+LDqOYfQdlioBbbV5PgFTJID0YRJmSI63D1R\nWM8WTkKjZ0EmZYmsOJaw1fXGbBkEt0i9t8cgXKXrPmuQhMsjq6j3MUnDTm9Ws+zw\nHm1EMuALrIHT/DgrlixpK5ticCKGNb8sKN1FFeQHdizx3NZOB0vl4Oxribnrh8Pb\nkkhL507a3eTALlVFt7J3wYcFIH1OQajdQu2rcdOeAQKBgQDWs8OzoIu5k+L6coqx\n0tH3eohEaqGwm7y+roMnhco5BrG0eiNahF6QeTJf0HLNJPR4wfnQaByDWY9Ho6gk\nXw4WsMU0imo6dggRCjdxdS04LUDe/GLYQfYb8gNa85u2mndEyQiScqFQknefopX+\nr76y5oOgmJdgVrFhrb6TQ6OZIQKBgQDPRs2viZ+irzkooGbImAOd3X9rISLXq0q+\nsEz/ttJdemxtUEXwKTT6UFYFdpACYg03Zfp9TH3B7yYjGrN74EszZa8g0Px7Rr2/\nYIryuB/ZvTumbWnN3Tnb+a3MNaC2y+Dy599DwEMTDgJF1C7qQCQ2NmGGcPH8cI5e\nXNGIDjErkQKBgQCHba8FUECyl3k2FygrUNsGqvDnjwdcum/NK5EpTfgoDnPrbpt8\nTkDECt7el0LC6guXXGvyrKlHpSd+vdmiz564a1qJcMHfDHK8JOCiHZKfe9QOk87Z\nsInISNka9s0C2t5eshxJHCtrAmiYdlr84uh8OnFOzNG3gBe1kH3EsIayYQKBgEBa\n/2nNFR9xwBF5G/CUIitVpkYg16yWpnJmUsHihZY4eInILq7OXICLiOnRUg0rXGci\n5o8YvMMF+ZVUqP2BOlgO7j0GJh4wbKGK3BlYSatVMbwOpJciZOCDuQ56aBfZXVKN\n46gpfang45vCsX5Rw+yBHe6cCsYSPGHX98aCgYnBAoGAAaIIZ1b9LoOZqD2RsEla\nL/qtRRP+0ze5xIWr8ZKktNePUa3JTuD/naygMNMNv10y9MJ6xwj5SN21efR8YbPj\nQbG3ClXl/gwHM7aWsu7odyVBpcNm1Hx3+N+Ss6Oi7ElPbFyaWZ4Sk1/1IM6ZiIPe\nr8AZ5aRRWz1gx6nYzKiy8vo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-67iax@simuladorbodega.iam.gserviceaccount.com",
+  "client_id": "103587126476085802761",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-67iax%40simuladorbodega.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
